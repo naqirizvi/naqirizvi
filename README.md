@@ -1,7 +1,7 @@
 ###
 
-👋 Hi there, I am a computer engineer and have experience in working in many startups as technical Lead and Cloud Engineer👨‍💻. 
-Interested in making life easier by creating utility tools. Fascinated about space.
+👋 Hey! Nice to see you. Myself Naqi, I am a computer engineer and have experience in working in many startups as technical Lead and Cloud Engineer👨‍💻. 
+Interested in making life easier by creating utility tools. Fascinated about space. 👾
 
 - 😄 Pronouns: He/His/Him
 - 🔭 I’m currently working at Rocket 🚀
@@ -13,3 +13,6 @@ Interested in making life easier by creating utility tools. Fascinated about spa
 How to pronounce my name: Naqi
 
 https://user-images.githubusercontent.com/13040185/225860878-5b3d2c84-6600-468f-9736-2ffed1f1b488.mp4
+
+###
+[![Naqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=naqirizvi&theme=monokai&show_icons=true&title_color=2ED3EA)](https://github.com/naqirizvi/github-readme-stats)
