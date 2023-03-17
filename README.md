@@ -10,7 +10,10 @@ Interested in making life easier by creating utility tools. Fascinated about spa
 - 📫 Write me: hey@naqi.engineer
 - ⚡ Fun fact: You are now a visitor ![visitors](https://visitor-badge.laobi.icu/badge?page_id=NaqiRizvi) 😉
 - 🗣️ Pronunciation: Naqi (check out the audio)
+
 https://user-images.githubusercontent.com/13040185/225860878-5b3d2c84-6600-468f-9736-2ffed1f1b488.mp4
 
 ###
 [![Naqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=naqirizvi&theme=aura_dark&show_icons=true&title_color=2ED3EA&hide=prs)](https://github.com/naqirizvi/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naqirizvia&layout=compact)](https://github.com/naqirizvi/github-readme-stats)
