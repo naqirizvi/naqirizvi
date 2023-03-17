@@ -16,4 +16,4 @@ https://user-images.githubusercontent.com/13040185/225860878-5b3d2c84-6600-468f-
 ###
 [![Naqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=naqirizvi&theme=aura_dark&show_icons=true&title_color=2ED3EA&hide=prs)](https://github.com/naqirizvi/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naqirizvia&layout=compact)](https://github.com/naqirizvi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naqirizvi&layout=compact)](https://github.com/naqirizvi/github-readme-stats)
